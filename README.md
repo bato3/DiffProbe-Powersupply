@@ -4,6 +4,8 @@
 
 Article: https://resources.altium.com/p/dual-rail-voltage-supply
 
+Video: https://www.youtube.com/watch?v=xLjGT3L2-yc
+
 # Description
 
 ## To create the -5.5V supply, I’m using the Maxim/Analog 
